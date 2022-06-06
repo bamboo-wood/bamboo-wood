@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm bamboo-wood 👋
 
 <!--
 **bamboo-wood/bamboo-wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
