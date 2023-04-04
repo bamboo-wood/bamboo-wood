@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>202１年10月～現在</td>
+      <td>現在<br />︴<br />2021年10月</td>
       <td>株式会社GIOテクノロジーズ</td>
       <td>iOSエンジニア</td>
       <td>
@@ -18,19 +18,19 @@
       </td>
     </tr>
     <tr>
-      <td>2020年12月～2021年9月</td>
+      <td>2021年9月<br />︴<br />2020年12月</td>
       <td>株式会社GIOテクノロジーズ</td>
       <td>システムエンジニア</td>
       <td>Java, JavaScript, SpringBoot, Git, GitHub, SQL, Oracle, Dbflute</td>
     </tr>
     <tr>
-      <td>2018年9月～2018年11月</td>
+      <td>2018年11月<br />︴<br />2018年9月</td>
       <td>株式会社クオンツ</td>
       <td>システムエンジニア</td>
       <td>Apex, Visualforce, DataSpider Cloud, Git, GitHub</td>
     </tr>
     <tr>
-      <td>2018年3月～2018年8月</td>
+      <td>2018年8月<br />︴<br />2018年3月</td>
       <td>株式会社クオンツ</td>
       <td>システムエンジニア</td>
       <td>Apex, Visualforce, Excel VBA, Eclipse, Backlog, SVF Cloud</td>
