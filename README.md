@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th>在籍期間</th>
+      <th>期間</th>
       <th>会社名</th>
       <th>職種</th>
       <th>技術スタック</th>
