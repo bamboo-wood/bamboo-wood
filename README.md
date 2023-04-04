@@ -9,6 +9,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>🚀<br />︴<br />2023年5月</td>
+      <td>株式会社アクセンチュア</td>
+      <td>
+        <!-- XXX -->
+      </td>
+      <td>
+        <!-- XXX -->
+      </td>
+    </tr>
+    <tr>
       <td>現在<br />︴<br />2021年10月</td>
       <td>株式会社GIOテクノロジーズ</td>
       <td>iOSエンジニア</td>
