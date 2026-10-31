@@ -24,15 +24,6 @@ kazuki@bamboo-wood ~ % _
 
 ---
 
-## 佐々木 一樹 / Kazuki Sasaki
-
-フリーランスのソフトウェアエンジニアです。新規サービスの立ち上げで、要件定義からフロントエンド・バックエンド・インフラの実装、リリース後の運用までを一貫して担当しています。
-
-- 言語: TypeScript / Swift / Python / Dart
-- FW: Next.js / NestJS / Vue.js / SwiftUI / UIKit / Flutter
-- インフラ: AWS（CDK / ECS Fargate / Aurora / Lambda / CloudFront / Cognito）/ Vercel
-- その他: Stripe / GitHub Actions / Playwright / Vitest / Claude Code
-
 ## $ git log --career
 
 **2026.03 - 現在**　フリーランス / PM・フルスタック  
