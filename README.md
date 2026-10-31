@@ -1,3 +1,29 @@
+<h1 align="center">$ whoami</h1>
+
+```console
+kazuki@bamboo-wood ~ % neofetch --minimal
+
+  role      freelance software engineer
+  since     2024-04
+  location  Tokyo, JP
+  langs     TypeScript / Swift / Python / Dart
+  stack     Next.js / NestJS / Flutter / SwiftUI / AWS CDK
+  os        macOS
+  shell     zsh
+  pair      Claude Code
+
+kazuki@bamboo-wood ~ % cat ./now.txt
+  shipping a SaaS from zero to production, alone: spec, frontend, backend, infra, ops.
+
+kazuki@bamboo-wood ~ % _
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,swift,py,dart,nextjs,nestjs,vue,flutter,aws,postgres,vercel,githubactions,playwright,vitest&perline=7" alt="tech stack" />
+</p>
+
+---
+
 ## 佐々木 一樹 / Kazuki Sasaki
 
 フリーランスのソフトウェアエンジニアです。新規サービスの立ち上げで、要件定義からフロントエンド・バックエンド・インフラの実装、リリース後の運用までを一貫して担当しています。
