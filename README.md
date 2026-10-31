@@ -54,7 +54,7 @@ kazuki@bamboo-wood ~ % _
       <td>TypeScript, Next.js, NestJS, TypeORM, PostgreSQL (Aurora), AWS CDK, ECS Fargate, CloudFront, Cognito, SES, Stripe, Turborepo, GitHub Actions, Playwright, Vitest, Google Ads API, Claude Code</td>
     </tr>
     <tr>
-      <td>🚀<br />︴<br />2025年11月</td>
+      <td>2026年3月<br />︴<br />2025年11月</td>
       <td>フリーランス</td>
       <td>PM・フルスタック</td>
       <td>推し活向けビデオメッセージサービスの自社開発</td>
